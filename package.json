@@ -1,0 +1,19 @@
+{
+  "name": "steam-ts",
+  "version": "1.0.0",
+  "description": "typescript port of doctor-mc-kay steam utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joffray589/steam-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joffray589/steam-ts/issues"
+  },
+  "homepage": "https://github.com/joffray589/steam-ts#readme"
+}
