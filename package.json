@@ -1,17 +1,19 @@
 {
-  "name": "steam-ts",
+  "name": "@types/steam-ts",
   "version": "1.0.0",
   "description": "typescript port of doctor-mc-kay steam utilities",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "",
+  "scripts": { },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joffray589/steam-ts.git"
   },
-  "author": "",
+  "author": {
+    "name": "Joffray Braga",
+    "email": "joffray.braga@gmail.com"
+  },
   "license": "ISC",
+  "typeScriptVersion": "2.0",
   "bugs": {
     "url": "https://github.com/joffray589/steam-ts/issues"
   },
